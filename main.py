@@ -1,7 +1,7 @@
 from aiogram import Bot,Dispatcher,executor,types
 import openai
 
-bot = Bot('6298269361:AAFIGkSiJ4dJmxbo25dThuF3pa9bx8GyBPc')
+bot = Bot('')
 openai.api_key = ''
 dp = Dispatcher(bot)
 
